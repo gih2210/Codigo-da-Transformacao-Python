@@ -1,5 +1,3 @@
-Bom dia! Claro. A partir do código do sistema de **Açaiteria** e usando a estrutura do exemplo em Markdown que você passou, o seu `README.md` pode ficar assim:
-
 # 🍧 Sistema de Vendas - Açaiteria
 
 ## Funcionalidades Principais
